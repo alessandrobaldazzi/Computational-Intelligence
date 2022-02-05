@@ -28,7 +28,7 @@ Commands for server:
 
 ## Client
 
-To start the server:
+To start the client:
 
 ```bash
 python client.py <IP> <port> <PlayerName>
